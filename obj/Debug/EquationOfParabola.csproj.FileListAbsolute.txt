@@ -1,0 +1,10 @@
+F:\projects\EquationOfParabola\bin\Debug\EquationOfParabola.exe.config
+F:\projects\EquationOfParabola\bin\Debug\EquationOfParabola.exe
+F:\projects\EquationOfParabola\bin\Debug\EquationOfParabola.pdb
+F:\projects\EquationOfParabola\bin\Debug\MathNet.Numerics.dll
+F:\projects\EquationOfParabola\bin\Debug\MathNet.Numerics.xml
+F:\projects\EquationOfParabola\obj\Debug\EquationOfParabola.csprojAssemblyReference.cache
+F:\projects\EquationOfParabola\obj\Debug\EquationOfParabola.csproj.CoreCompileInputs.cache
+F:\projects\EquationOfParabola\obj\Debug\EquationOfParabola.csproj.CopyComplete
+F:\projects\EquationOfParabola\obj\Debug\EquationOfParabola.exe
+F:\projects\EquationOfParabola\obj\Debug\EquationOfParabola.pdb
